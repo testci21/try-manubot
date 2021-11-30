@@ -67,3 +67,9 @@ jobs:
           CI_JOB_WEB_URL: https://github.com/${{ github.repository }}/runs/${{ github.run_id }}
         shell: bash --login {0}
         run: bash ci/deploy.sh
+        
+        
+        
+        
+        
+        The article was written in 1984. It was the about this experiments that were conducted on some isolated village. The villages in (Lulbushki) a was located in the mountaineous region and well built yak roamed the pastures. The inhabitants in Lulbushki depended of the pastures. On 25st of Nvember 1984, some of the yak were rounded up in acordance to the new animal husbandry law of Peking and informtion about what would be done was announced  The yak were coloured white to distinguished them but it was hard to make out teh difference. They were terrified and could possibly have undergone trauma. The yak like to roam freely in nature and do grazing in pastures with their herdsmen guarding them. The herdsmen understand how valuable theur yak are to they. However, they may end up to sell them
